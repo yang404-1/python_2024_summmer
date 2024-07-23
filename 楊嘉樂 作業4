@@ -1,0 +1,11 @@
+if 5>2:
+    print("five is greater then two !")
+"""
+if 5>2:
+     print("five is greater then two !")
+"""
+print("hi i am neal")
+
+x,y=5,"john"
+print (x)
+print (y)
