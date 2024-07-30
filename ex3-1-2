@@ -1,0 +1,6 @@
+x = str(1)
+y = int(3)
+z = float(3)
+print ("x=",x+" am 1n hell")
+print ("y=",y+3)
+print ("z=",z+2.5)
